@@ -1,0 +1,9 @@
+node_modules
+dist
+*.local
+.history
+.idea
+dist/
+.hbuilderx
+keys
+unpackage
